@@ -3,7 +3,7 @@
 </p>
 
 <h1>VPN Setup and Explanation</h1>
-This tutorial outlines the basics of virtual private networks by installing Proton VPN on a remote desktop and observing how it changes the IP address.<br />
+This tutorial outlines the very basics of virtual private networks and demonstrates how to change your IP and connect to different servers around the world.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -51,12 +51,12 @@ Using the virtual machine install Proton VPN by going to https://protonvpn.com/ 
 <img src="https://github.com/kennethmoen/VM-Setup-and-Explanation/assets/145589069/82927918-9346-49ca-acc7-40829f30d673"/>
 </p>
 <p>
-Once the VPN is installed connect to the Japanese server. The VPN in the disconnected state will show connect instead of disconnect. Click on that button and allow the virtual machine to establish a VPN connection which will take a few moments.
+Once the VPN is installed connect to any server. You may be temporarily disconnected from your VM, if this happens wait a few seconds or reconnect if necessary.
 </p>
 <br />
 <img src="https://github.com/kennethmoen/VM-Setup-and-Explanation/assets/145589069/03745df0-acde-41f6-83a1-fec2608ea65a"/>
 </p>
 <p>
-Once connected to the server return to ttps://www.whatismyip.com/ and note the difference. This concludes the basic setup for a VPN and demonstration of how it changes IP addresses
+Now visit ttps://www.whatismyip.com/ and note the difference. This concludes the basic setup for a VPN and demonstration of how it changes IP addresses
 </p>
 <br />
