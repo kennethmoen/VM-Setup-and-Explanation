@@ -45,19 +45,16 @@ Use a web browser and go to  https://www.whatismyip.com/ and record the IP addre
 <br />
 
 <p>
-<img src="https://i.imgur.com/Xxvdftj.png"/>
-</p>
-<p>
 Using the virtual machine install Proton VPN by going to https://protonvpn.com/ and clicking the highlighted button.
 </p>
 <br />
-<img src="https://i.imgur.com/lMSMruc.png"/>
+<img src="https://github.com/kennethmoen/VM-Setup-and-Explanation/assets/145589069/82927918-9346-49ca-acc7-40829f30d673"/>
 </p>
 <p>
 Once the VPN is installed connect to the Japanese server. The VPN in the disconnected state will show connect instead of disconnect. Click on that button and allow the virtual machine to establish a VPN connection which will take a few moments.
 </p>
 <br />
-<img src="https://i.imgur.com/W4oxZK0.png"/>
+<img src="!https://github.com/kennethmoen/VM-Setup-and-Explanation/assets/145589069/03745df0-acde-41f6-83a1-fec2608ea65a"/>
 </p>
 <p>
 Once connected to the server return to ttps://www.whatismyip.com/ and note the difference. This concludes the basic setup for a VPN and demonstration of how it changes IP addresses
