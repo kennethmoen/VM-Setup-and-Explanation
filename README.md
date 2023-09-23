@@ -10,7 +10,6 @@ This tutorial outlines the basics of virtual private networks by installing Prot
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- https://www.whatismyip.com/
 - Notepad
 - https://protonvpn.com/
   
@@ -30,7 +29,7 @@ This tutorial outlines the basics of virtual private networks by installing Prot
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/wy8o50i.png"/>
+<img src="https://github.com/kennethmoen/VM-Setup-and-Explanation/assets/145589069/5d013d6f-c3d1-49d8-bc42-eaf910131408"/>
 </p>
 <p>
 Use a web browser and go to  https://www.whatismyip.com/ and record the IP address in notepad as shown in the above screenshot.
@@ -38,7 +37,7 @@ Use a web browser and go to  https://www.whatismyip.com/ and record the IP addre
 <br />
 
 <p>
-<img src="https://i.imgur.com/Da9a2AN.png"/>
+<img src="https://github.com/kennethmoen/VM-Setup-and-Explanation/assets/145589069/f6451d58-72a2-4b71-bac2-42ffdfd946d9"/>
 </p>
 <p>
   Use an Azure Virtual Machine and find the IP using the same method and note the difference.
