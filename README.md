@@ -3,15 +3,16 @@
 </p>
 
 <h1>VPN Setup and Explanation</h1>
-This tutorial outlines the very basics of virtual private networks and demonstrates how to change your IP and connect to different servers around the world.<br />
+This tutorial provides a brief overview of VPNs and shows you how to change your IP address and connect to different servers around the world..<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Notepad
-- https://protonvpn.com/
+- Open https://www.whatismyip.com/ and record your local computer's IP address in a text file.
+- Repeat step 1 on an Azure virtual machine.
+- Download Proton VPN onto the virtual machine.
+- Connect to any Proton VPN server.
+- Visit https://www.whatismyip.com/ and record the IP address.
   
 
 <h2>Operating Systems Used </h2>
@@ -57,6 +58,6 @@ Once the VPN is installed connect to any server. You may be temporarily disconne
 <img src="https://github.com/kennethmoen/VM-Setup-and-Explanation/assets/145589069/03745df0-acde-41f6-83a1-fec2608ea65a"/>
 </p>
 <p>
-Now visit ttps://www.whatismyip.com/ and note the difference. This concludes the basic setup for a VPN and demonstration of how it changes IP addresses
+Now visit ttps://www.whatismyip.com/ and note the difference. This basic tutorial has shown you how to set up a VPN and change your IP address. VPNs can be used for a variety of purposes, such as protecting your privacy online and bypassing geo-restrictions.
 </p>
 <br />
