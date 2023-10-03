@@ -8,11 +8,10 @@ This tutorial provides a brief overview of VPNs and shows you how to change your
 
 <h2>Environments and Technologies Used</h2>
 
-- Open https://www.whatismyip.com/ and record your local computer's IP address in a text file.
-- Repeat step 1 on an Azure virtual machine.
-- Download Proton VPN onto the virtual machine.
-- Connect to any Proton VPN server.
-- Visit https://www.whatismyip.com/ and record the IP address.
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Windows 10
+- Proton VPN
   
 
 <h2>Operating Systems Used </h2>
@@ -21,11 +20,11 @@ This tutorial provides a brief overview of VPNs and shows you how to change your
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Open notepad and record the IP address from your local computer in a notepad text file by using https://www.whatismyip.com/
-- Using an Azure virtual machine record its IP address using the same method.
-- Dowload Proton VPN onto the virtual machine.
-- Use the virtual machine to download and install Proton VPN.
-- Use Proton VPN to change the virtual machine's IP address and record it using the same method.
+- Open https://www.whatismyip.com/ and record your local computer's IP address in a text file.
+- Repeat step 1 on an Azure virtual machine.
+- Download Proton VPN onto the virtual machine.
+- Connect to any Proton VPN server.
+- Visit https://www.whatismyip.com/ and record the IP address.
 
 <h2>Deployment and Configuration Steps</h2>
 
