@@ -10,7 +10,6 @@ This tutorial provides a brief overview of VPNs and shows you how to change your
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Windows 10
 - Proton VPN
   
 
